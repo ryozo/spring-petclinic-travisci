@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/ryozo/spring-petclinic-travisci.svg?branch=master)](https://travis-ci.org/ryozo/spring-petclinic-travisci)
 
 ## What does it look like?
 -spring-petclinic has been deployed here on cloudfoundry: http://demo-spring-petclinic.cfapps.io/
